@@ -76,13 +76,14 @@ The dataset files are available in the main repository directory.
 To run the code in the Jupyter Notebooks, you will need to have Python 3.x installed along with the following libraries. You can install these libraries using pip:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-Use code with caution.
-Markdown
-Alternatively, you can use conda:
+pip install -r requirements.txt
+```
 
+Alternatively, you can use conda:
+```bash
 conda install pandas numpy matplotlib seaborn scikit-learn
-Use code with caution.
-Bash
+```
+
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
