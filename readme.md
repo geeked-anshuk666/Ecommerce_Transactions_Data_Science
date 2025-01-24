@@ -16,7 +16,6 @@ This repository contains the deliverables for a Data Science assignment focused 
     *   [Task 3: Customer Segmentation / Clustering](#task-3-customer-segmentation--clustering)
 4.  [**Tech Stack and Libraries**](#tech-stack-and-libraries)
 5.  [**Installation / Requirements**](#installation--requirements)
-6.  [**License**](#license)
 
 ## Project Description
 
