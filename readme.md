@@ -84,6 +84,3 @@ Alternatively, you can use conda:
 conda install pandas numpy matplotlib seaborn scikit-learn
 ```
 
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
