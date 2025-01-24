@@ -37,24 +37,24 @@ The dataset files are available in the main repository directory.
 
 *   **Description:** Performed Exploratory Data Analysis (EDA) on the eCommerce dataset to understand data characteristics and derive business insights.
 *   **Deliverables:**
-    *   `FirstName_LastName_EDA.pdf`: PDF report containing 5 business insights derived from EDA.
-    *   `FirstName_LastName_EDA.ipynb`: Jupyter Notebook containing the Python code for EDA.
+    *   `Anshuk_Jirli_EDA.pdf`: PDF report containing 5 business insights derived from EDA.
+    *   `Anshuk_Jirli_EDA.ipynb`: Jupyter Notebook containing the Python code for EDA.
 
 ### Task 2: Lookalike Model
 
 *   **Description:** Built a Lookalike Model to recommend 3 similar customers for a given user, based on their profile and transaction history. Cosine similarity was used to calculate similarity scores.
 *   **Deliverables:**
-    *   `FirstName_LastName_Lookalike.csv`: CSV file (`Map<cust_id, List<cust_id, score>>` format) containing top 3 lookalike customer recommendations and similarity scores for the first 20 customers (C0001-C0020).
-    *   `FirstName_LastName_Lookalike.ipynb`: Jupyter Notebook explaining the Lookalike Model development and code.
+    *   `Anshuk_Jirli_Lookalike.csv`: CSV file (`Map<cust_id, List<cust_id, score>>` format) containing top 3 lookalike customer recommendations and similarity scores for the first 20 customers (C0001-C0020).
+    *   `Anshuk_Jirli_Lookalike.ipynb`: Jupyter Notebook explaining the Lookalike Model development and code.
 
 ### Task 3: Customer Segmentation / Clustering
 
 *   **Description:** Performed customer segmentation using K-Means clustering, leveraging both customer profile and transaction information. Evaluated clustering using the Davies-Bouldin Index and visualized the clusters using PCA.
 *   **Deliverables:**
-    *   `FirstName_LastName_Clustering.pdf`: PDF report on customer segmentation results, including the number of clusters, DB Index value, other clustering metrics, cluster profiles, and visualizations.
-    *   `FirstName_LastName_Clustering.ipynb`: Jupyter Notebook containing the Python code for customer segmentation, metric calculation, and visualization.
+    *   `Anshuk_Jirli_Clustering.pdf`: PDF report on customer segmentation results, including the number of clusters, DB Index value, other clustering metrics, cluster profiles, and visualizations.
+    *   `Anshuk_Jirli_Clustering.ipynb`: Jupyter Notebook containing the Python code for customer segmentation, metric calculation, and visualization.
 
-**Note:** Please replace `FirstName_LastName` in all filenames with your actual First and Last Name.
+
 
 ## Tech Stack and Libraries
 
